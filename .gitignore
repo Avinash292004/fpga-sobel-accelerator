@@ -1,0 +1,6 @@
+venv/
+obj_dir/
+data/*.hex
+data/*.bin
+__pycache__/
+.DS_Store
